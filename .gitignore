@@ -1,0 +1,4 @@
+app_env/
+__pycache__/
+.env
+output2/
