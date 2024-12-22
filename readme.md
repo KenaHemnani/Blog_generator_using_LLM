@@ -9,6 +9,7 @@
 **Clone the repository**  
 
 git clone https://github.com/KenaHemnani/Blog_generator_using_LLM.git
+
 cd Blog_generator_using_LLM
 
 **Install Requirements**  
@@ -37,3 +38,17 @@ streamlit run streamlit_frontend.py
 
 
 ### Example blogs :
+
+#### Blog-1 :
+
+##### Type : Educational Blog 
+##### Topic : Top-5 Farmer Welfare Schemes in India 
+
+[![Video Thumbnail](https://img.youtube.com/vi/SqCqgrOJ1jw/0.jpg)](https://youtu.be/SqCqgrOJ1jw)
+
+#### Blog-2 :
+
+##### Type : Travel Blog 
+##### Topic : Best Places to Visit in South Africa 
+
+[![Video Thumbnail](https://img.youtube.com/vi/IvUN13hfF1M/0.jpg)](https://youtu.be/IvUN13hfF1M)
