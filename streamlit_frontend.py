@@ -186,7 +186,7 @@ def display_blog(blog_path, images_path):
 if __name__ == "__main__":
     # st.title("Final Blog")
     blog_path = 'output1/final_blog/final_blog.json'
-    images_path = 'output1/final_blog/final_blog_images.json'
+    images_path = 'output1  /final_blog/final_blog_images.json'
     paragraphs = extract_json(blog_path)
     images_for_paragraphs = extract_json(images_path)
     # print(f"1 : {images_for_paragraphs}")
