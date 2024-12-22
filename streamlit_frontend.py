@@ -185,9 +185,8 @@ def display_blog(blog_path, images_path):
 # Run the Streamlit app
 if __name__ == "__main__":
     # st.title("Final Blog")
-    blog_path = 'output10/final_blog/final_blog.json'
-    images_path = 'output10/final_blog/final_blog_images.json'
-    generated_img_folder_path = 'output10/gen_images/'
+    blog_path = 'output1/final_blog/final_blog.json'
+    images_path = 'output1/final_blog/final_blog_images.json'
     paragraphs = extract_json(blog_path)
     images_for_paragraphs = extract_json(images_path)
     # print(f"1 : {images_for_paragraphs}")
